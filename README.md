@@ -1,11 +1,10 @@
 # 🎵 Tune Blob | Interactive Musical Blobs 🎶
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Demo](https://img.shields.io/badge/Live-Demo-blue)](https://your-demo-link.com) <!-- Replace with your link -->
-
+[![Demo](https://tuneblob.netlify.app/)
 An interactive music experiment where colorful blobs sing in harmony! Inspired by Google's Blob Opera, **Tune Blob** lets you compose melodies by dragging blobs to control pitch, tone, and rhythm. Perfect for playful music exploration.
 
-![Tune Blob Demo GIF](![image](https://github.com/user-attachments/assets/db698bc4-6777-4e54-9851-a013a6db3c81)) 
+![image](https://github.com/user-attachments/assets/db698bc4-6777-4e54-9851-a013a6db3c81)
 
 ---
 
